@@ -10,7 +10,7 @@ I’m a passionate technician who loves to code. Inspired by the motto "always d
 * ✉️  You can contact me at [refunfk@gmail.com](mailto:refunfk@gmail.com)
 * 🚀  I'm currently working on [Empress InfoTech](http://https://empressinfotech.com/)
 * 🤝  I'm open to collaborating on Full Stack Developers Community.
-* ⚡  Ask me about Python, NodeJs, Dot Net Core, React, React Native (Expo).
+* ⚡  Ask me about Python, NodeJs, Dot Net Core, React, Next Js, React Native (Expo), AWS.
 
 ### Skills
 
